@@ -1,0 +1,29 @@
+[{
+  "first": "sai",
+  "last":"santosh",
+  "phone":"9390648551",
+  "email":"saisantosah21@gmail.com",
+  "address":"2-12",
+  "city":"Bengaluru",
+  "state":"karnataka",
+  "postal":"533006",
+  "username":"santosh13",
+  "password":"santosh13",
+  "confirmpassword":"santosh13"
+},
+{
+  "first": "sai",
+  "last":"santosh",
+  "phone":"9390648551",
+  "email":"saisantosah21@gmail.com",
+  "address":"2-12",
+  "city":"Bengaluru",
+  "state":"karnataka",
+  "postal":"533006",
+  "username":"santosh123",
+  "password":"santosh123",
+  "confirmpassword":"santosh123"
+}
+]
+
+

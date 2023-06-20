@@ -1,0 +1,17 @@
+{
+  "name": "asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules//.bin/cypress run",
+    "test_header": "node_modules/.bin/cypress run --headed -browser=chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@wdio/cli": "^8.6.7",
+    "cypress": "^12.7.0"
+  }
+}
